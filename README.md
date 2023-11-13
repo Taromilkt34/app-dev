@@ -1,5 +1,6 @@
-# app-dev
-My first repository
+# ONLAGADA, JOSEPH BRANT DEL PRADO
+# BSIT - 507
+# 06 Task Performance 1 - ARG
 
 > My favorite series/movie:
 1. Stranger Things
