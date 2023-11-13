@@ -1,4 +1,3 @@
-# ONLAGADA, JOSEPH BRANT DEL PRADO
 
 > My favorite series/movie:
 **Stranger Things**
