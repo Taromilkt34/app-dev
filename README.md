@@ -1,9 +1,7 @@
 # ONLAGADA, JOSEPH BRANT DEL PRADO
-# BSIT - 507
-# 06 Task Performance 1 - ARG
 
 > My favorite series/movie:
-1. Stranger Things
-   ![alt text]([Stranger_Things_logo.jpg)
+**1. Stranger Things**
+  # Synopsis about Stranger Things:
    - In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.
 
